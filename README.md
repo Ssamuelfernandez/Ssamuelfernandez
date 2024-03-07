@@ -21,7 +21,6 @@
 - LinkedIn: <a href="www.linkedin.com/in/samuelfernándezsepúlveda" target="_blank">Samuel Fernández Sepúlveda</a>
 
 <br>
-<br>
 
 <!--
 
