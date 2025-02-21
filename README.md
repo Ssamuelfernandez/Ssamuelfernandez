@@ -19,7 +19,7 @@
 ## Contact me 📫
 
 - LinkedIn: <a href="www.linkedin.com/in/samuelfernándezsepúlveda" target="_blank">Samuel Fernández Sepúlveda</a>
-- LinkedIn: <a href="www.ssamuelfernandez.net" target="_blank">Portfolio Web</a>
+- Portfolio Web: <a href="www.ssamuelfernandez.net" target="_blank">Samuel Fernández</a>
 
 <br>
 
