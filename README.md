@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width=300  />
-  <h4>I´m Samuel Fernández, a Full Stack Web Developer passionate about creating!!</h4>
-</div>
-
-<br>
-<br>
 
 ## About me 🚀
 <div>
