@@ -7,7 +7,7 @@
 🐍 I’m also starting to dive into **Python** (because who can resist the charm of automation and AI?).  
 🤖 Playing with **AI models and prompt engineering** — always testing, breaking, and pushing what’s possible.
 
-Besides code, I’m always up for a good adventure: street photography, music, dancing (badly, but with style), gaming, or deep conversations over coffee. I love discovering new places, learning about different cultures, and going after anything that keeps life interesting.
+Besides code, I’m always up for good food, long walks in nature, and conversations that go way beyond small talk. I love exploring how things work—whether it’s the tech around us, the world we live in, or just the perfect way to cook a classic dish. Curiosity (and appetite) keep life interesting.
 
 • 👯 Up for collaborating on smart business ideas (or the next big/wild project)<br>
 • 💬 Ask me anything — life, tech, travel, or food recommendations!!
