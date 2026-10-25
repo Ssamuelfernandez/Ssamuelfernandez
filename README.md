@@ -25,9 +25,9 @@ I keep learning and moving forward, currently deepening my AI & Big Data special
 
 ## 🤝🏼 Connect with me
 
-[![Web](https://img.shields.io/badge/Web-228BE6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ssamuelfernandez.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelfernándezsepúlveda)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ssamuelfernandez)
+[![Web](https://img.shields.io/badge/Web-228BE6?style=flat&logo=google-chrome&logoColor=white)](https://ssamuelfernandez.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelfernándezsepúlveda)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ssamuelfernandez)
 
 
 <br>
