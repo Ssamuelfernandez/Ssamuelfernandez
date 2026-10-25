@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/Ssamuelfernandez/Ssamuelfernandez/3537f9af80c5062dc6d343fc4389ab2b8dfb5643/Titulo.svg" alt="Logo" width="100%" />
-
-
 ## 👋 Hi, I’m **Samuel Fernández** — Full Stack Web Developer
 
 🚀 These days I’m building cool stuff with **React** and getting my hands dirty with **Node.js** (backend).  
